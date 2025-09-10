@@ -1,8 +1,8 @@
-Relatório de Análise: Desperdício Global de Alimentos
+## Relatório de Análise: Desperdício Global de Alimentos
 Sumário
 Este relatório apresenta uma análise aprofundada do dataset global_food_wastage_dataset.csv, com o objetivo de extrair insights valiosos sobre o desperdício de alimentos em escala global. Foram examinadas correlações, tendências e distribuições de dados para compreender as principais causas e consequências desse problema.
 
-1. Insights Chave do Dataset
+## 1. Insights Chave do Dataset
 1.1 Correlação entre População e Desperdício Total
 A análise de correlação entre a população (Population (Million)) e o desperdício total de alimentos (Total Waste (Tons)) revelou uma forte relação.
 
@@ -20,12 +20,12 @@ Ao agrupar os dados por categoria de alimento (Food Category) e calcular a médi
 
 Principais Contribuintes: O gráfico de rosca (Donut Chart) revelou que categorias específicas de alimentos contribuem com a maior parte do prejuízo financeiro. Esta visualização é crucial para direcionar esforços de redução de perdas para os setores de maior impacto econômico.
 
-1.4 Top 5 Países com Maior Desperdício
+## 1.4 Top 5 Países com Maior Desperdício
 A ordenação dos dados pela coluna de Total Waste (Tons) permitiu identificar os principais países contribuintes para o problema.
 
 Ranking: O gráfico de colunas (Bar Chart) destacou os 5 países com o maior volume de desperdício total, oferecendo um panorama claro de onde o problema é mais agudo.
 
-2. O Problema do Desperdício de Alimentos no Mundo e Como Melhorar
+## 2. O Problema do Desperdício de Alimentos no Mundo e Como Melhorar
 O desperdício de alimentos é um desafio global com sérias implicações ambientais, econômicas e sociais. Ele não se limita a alimentos que estragam na geladeira; inclui perdas em todas as etapas da cadeia de produção, do campo à mesa.
 
 Causas Principais:
@@ -56,5 +56,19 @@ Reaproveitamento: Desenvolver soluções inovadoras para reaproveitar o que seri
 
 Legislação: Estabelecer metas nacionais de redução de desperdício e penalidades para grandes geradores de resíduos.
 
-3. Conclusão
+
+
+## 3. Conclusão
 Os insights obtidos do dataset confirmam que o desperdício de alimentos é um problema grave e multifacetado, com forte ligação à densidade populacional e uma tendência de crescimento em algumas regiões. A análise detalhada serve como ponto de partida para a tomada de decisões e a implementação de estratégias eficazes. A luta contra o desperdício requer um esforço conjunto, com ações coordenadas em todos os níveis: da cozinha de casa às políticas governamentais.
+
+# Relatório de Análise: Desperdício Global de Alimentos
+
+Este repositório contém os scripts de análise e o relatório final sobre o desperdício de alimentos.
+
+---
+
+## Visualização Interativa dos Dados
+
+Explore os dashboards interativos que criei no Looker Studio. Clique no link abaixo para visualizar a análise completa!
+
+**[Veja o Dashboard no Looker Studio](https://lookerstudio.google.com/reporting/e853b2ec-07c1-4d13-85da-5aedda3e256d)**
